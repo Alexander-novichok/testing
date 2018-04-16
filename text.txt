@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+int summa (...){
+
+do {
+
+}while ();
+
+return 0;
+}
+
 void main() {
 
 printf ("Test new branch for function check.");
